@@ -1,16 +1,16 @@
-## Hi there 👋
+## Bruna Silva 👩🏻‍💻
 
-<!--
-**BrunaaSilvaa/BrunaaSilvaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação  
+💻 Desenvolvedora Front-End em formação  
+🤖 Interesse em Inteligência Artificial  
 
-Here are some ideas to get you started:
+Construindo uma base sólida em desenvolvimento web, com foco em interfaces modernas, organização de código e evolução contínua.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Atualmente estudando
+- HTML5  
+- CSS3  
+- JavaScript  
+- Git e GitHub  
+
+### Objetivo
+Evoluir como Desenvolvedora Front-End e, no futuro, atuar em soluções envolvendo Inteligência Artificial.
