@@ -8,3 +8,5 @@ Construindo uma base sólida em desenvolvimento web, com foco em interfaces mode
 
 ### Objetivo
 Evoluir como Desenvolvedora Front-End e, no futuro, atuar em soluções envolvendo Inteligência Artificial.
+
+Email: brunasoaresilvaa@gmail.com
