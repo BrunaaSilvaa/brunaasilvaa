@@ -1,7 +1,7 @@
-## Bruna Silva 👩🏻‍💻
+## Bruna Mazzini 👩🏻‍💻
 
 🎓 Estudante de Ciência da Computação  
-💻 Desenvolvedora Front-End em formação  
+💻 Desenvolvedora Full Stack em formação  
 🤖 Interesse em Inteligência Artificial  
 
 Construindo uma base sólida em desenvolvimento web, com foco em interfaces modernas, organização de código e evolução contínua.  
